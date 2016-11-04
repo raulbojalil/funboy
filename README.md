@@ -1,3 +1,5 @@
+# Funboy
+
 A Gameboy Emulator written in F#.
 
 My goal was to write a Gameboy emulator using the fewest lines of code possible, while
@@ -12,3 +14,7 @@ You can run it as a script or compile to an exe file using the following command
 
 "C:\Program Files (x86)\Microsoft F#\v4.0\fsi.exe" ChipF.fsx (to run as a script)
 "C:\Program Files (x86)\Microsoft F#\v4.0\fsc.exe" ChipF.fsx (to compile to an exe file)
+
+![Funboy](https://github.com/raulbojalil/funboy/blob/master/screenshot.png?raw=true "Funboy")
+![Funboy](https://github.com/raulbojalil/funboy/blob/master/tileviewer.png?raw=true "Funboy")
+![Funboy](https://github.com/raulbojalil/funboy/blob/master/mapviewer.png?raw=true "Funboy")
